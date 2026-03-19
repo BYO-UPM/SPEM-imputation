@@ -1,16 +1,16 @@
 
 
-# Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach
+# Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Deep Learning Approach
 
 **Author:** Mehdi Bejani   
-**License:** CC-BY-NC 4.0 International  
+**License:** CC-BY-NC-ND 4.0 International  
 **arXiv Preprint:** [arXiv:2506.00545](https://arxiv.org/abs/2506.00545
 
 ## Overview
 
 This repository accompanies the paper:
 
-> **Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach**  
+> **Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Deep Learning Approach**  
 > *M Bejani, G Perez-de-Arenaza-Pozo, JD Arias-Londoño, JI Godino-Llorente*
 > arXiv Preprint [arXiv:2506.00545](https://arxiv.org/abs/2506.00545) 
  
