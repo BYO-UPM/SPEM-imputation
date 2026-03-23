@@ -1,0 +1,26 @@
+# Instruct pip to find the CUDA 11.8 versions of PyTorch
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# PyTorch
+torch
+torchvision
+torchaudio
+
+# Data manipulation & utilities
+numpy
+pandas
+scipy
+tqdm
+
+# Machine Learning & Imputation
+scikit-learn
+pygrinder
+pypots
+transformers
+
+# Visualization & Notebook
+matplotlib
+ipywidgets
+
+# Fix for the previous crash
+Pillow>=9.1.0
