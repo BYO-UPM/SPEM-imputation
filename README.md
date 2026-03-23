@@ -252,7 +252,4 @@
 
 # ```
 
-# 
-
-# Would you like me to generate a `.gitignore` file for you as well so you don't accidentally push large cache files or `\_\_pycache\_\_` folders to your new GitHub repository?
 
